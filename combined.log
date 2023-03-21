@@ -1,0 +1,3 @@
+{"level":"info","message":"Operation divide executed with num1: 10, num2: 2","service":"calculate-service"}
+{"level":"info","message":"Operation add executed with num1: 10, num2: 2","service":"calculate-service"}
+{"level":"info","message":"Operation plus executed with num1: 10, num2: 2","service":"calculate-service"}
